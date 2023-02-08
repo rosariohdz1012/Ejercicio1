@@ -32,4 +32,5 @@ si el monto es menor que cero entonces se cancela la operacion
 ~~~
 
 
-##Etapa 03. Diseño de la solución 
+##Etapa 03. Diseño de la solución
+![](https://github.com/rosariohdz1012/Ejercicio1/blob/master/Diagrama%20de%20clases.png)
