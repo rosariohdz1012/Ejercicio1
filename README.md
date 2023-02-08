@@ -5,6 +5,7 @@ Ejercicio conversor de monedas
 Se requiere un programa en Java para convertir una cantidad de dinero en otros tipos de monedas 
 (al menos a cinco tipos de monedas distintas).
 
+##Etapa 02. Definicion  de la solucion
 ~~~
 -Entrada 
 float cantidad
